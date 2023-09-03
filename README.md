@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @buddyx1
 - 😎 gender: male, year of birth: 1983, nationality: german, profession: electro-engineer, industry sector: mobile communications
 - 👀 I’m interested in IT, IoT, Server environments, virtualization, Raspberry Pi`s, other mc`s, self hosting things, homelab ...    
